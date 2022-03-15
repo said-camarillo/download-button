@@ -1,0 +1,15 @@
+.content {
+    text-align: center;
+    margin-top: 280px;
+}
+
+button {
+    width: 150px;
+    padding: 10px 0px;
+    font-size: large;
+    color: white;
+    background: #46ce;
+    font-family: 'Cascadia Code';
+    border: none;
+    border-radius: 100px;
+}
